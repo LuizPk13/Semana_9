@@ -1,9 +1,7 @@
-# Semana 9
-Nas semanas 9: SQL básico
+# Semana 9: SQL básico
 
 Conteúdo
 
-## Semana 9	
 09/06  	
   - SQL Básico em DW: SELECT, WHERE e ORDER BY  
   - JOINS em Star Schema: INNER JOIN (fato + dimensões) e LEFT JOIN
